@@ -33,7 +33,7 @@
 
     Website:
 
-        
+        https://github.com/mrpace2/lua-jsonpath
 
     See:
 
@@ -50,7 +50,7 @@
 
     Installation:
 
-        luarocks install lua-jsonpath
+        luarocks install jsonpath
 
     Dependencies:
 

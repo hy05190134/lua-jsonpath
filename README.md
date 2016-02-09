@@ -28,7 +28,7 @@ local names = jp.query(cities, '$..name')
 ## Install
 
 ```
-$ luarocks install lua-jsonpath
+$ luarocks install jsonpath
 ```
 
 

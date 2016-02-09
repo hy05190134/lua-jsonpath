@@ -31,7 +31,7 @@
 
     Install dependencies:
 
-        luarocks install lua-jsonpath
+        luarocks install jsonpath
 
         git clone https://github.com/bluebird75/luaunit
         cd luaunit
